@@ -53,12 +53,19 @@ Software Engineer | Building IoT + AI projects | Computer Vision
   
 
 </div>
-
-
-
-
-
 </div>
+<table>
+  <tr>
+    <td >
+      <a href="https://www.linkedin.com/in/martin-arriaga/" target="_blank">
+      <img width="30" height="40" alt="linkedin" src="https://github.com/user-attachments/assets/e025a982-d277-4d6a-b2f5-2a766c8831af" />
+      </a>
+      &nbsp;&nbsp;
+     </td>
+    
+    <td style="text-align:center;">Centered text</td>
+  </tr>
+</table>
 
 <div align="center">
   
