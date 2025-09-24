@@ -9,8 +9,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 <details>
-  <summary> Contact </summary>
-  Lets build something together
+  <summary> Lets build something together </summary>
+  
   martinarriagaalejos@gmail.com
 </details>
 
