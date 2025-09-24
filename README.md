@@ -19,41 +19,46 @@ Software Engineer | Building IoT + AI projects | Computer Vision
 
 <div align="left">
 
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap: wrap;">
+
 
   <!-- Box 1 -->
   
-  <div style="border:5px solid #ff00ff; border-radius:15px; padding:15px; width:100px; background-color:#1a1a1a; display:inline-block;box-shadow:0 0 10px #ff00ff;">
+  <div >
     
-    Box 1
+    Box 1 
+    
+  
     
   </div>
 
   <!-- Box 2 -->
   
-  <div style="border:5px solid #00ffff; border-radius:15px; padding:15px; width:100px; background-color:#1a1a1a; display:inline-block;">
+<div >
     
-    Box 2
+    <h3> Lets Build Something </h3>
+    <p> email </p>
     
-  </div>
+    
+
+</div>
 
   <!-- Box 3 -->
   
-  <div style="border:5px solid #ff66ff; border-radius:15px; padding:15px; width:100px; background-color:#1a1a1a; display:inline-block;">
-    
-    Box 3
-    
-  </div>
-
+ <div >
+   
+  <h3 > Education</h3>
+   
+  <p > Bachelors of Science in Computer Science University of Texas at Dallas <br>
+    Associates of Science in Business Administration Collin College </p>
+  
 
 </div>
 
+
+
+
+
 </div>
-
-
-
-
-
 
 <div align="center">
   
