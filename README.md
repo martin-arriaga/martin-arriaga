@@ -15,7 +15,8 @@
 </details>
 
 <div align = "center">
-  ![snake gif](https://github.com/martin-arriaga/martin-arriaga/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/martin-arriaga/martin-arriaga/blob/output/github-snake-dark.svg)
+  ![snake](https://github.com/martin-arriaga/martin-arriaga/output/github-snake-dark.svg)
 </div>
 
 
