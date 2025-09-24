@@ -1,10 +1,11 @@
 # Hi, I'm Martin 👋
+<div align="right">
 
-<div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=martin-arriaga.martin-arriaga&style=flat-square&label=Visitors&color=00ff00&textColor=ff00ff&logo=https://img.icons8.com/fluency/48/000000/eye.png)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=martin-arriaga.martin-arriaga&style=flat-square&label=Views&left_color=grey&right_color=lavender)
 
 </div>
+
+
 
 
 
