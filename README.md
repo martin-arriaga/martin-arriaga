@@ -15,6 +15,6 @@
 </details>
 
 ![GitHub Snake](https://raw.githubusercontent.com/martin-arriaga/martin-arriaga/output/github-contribution-grid-snake.svg)
-![GitHub Snake](https://raw.githubusercontent.com/martin-arriaga/martin-arriaga/output/github-contribution-grid-snake.svg)
+![GitHub Snake]([https://raw.githubusercontent.com/martin-arriaga/martin-arriaga/output/github-contribution-grid-snake.svg](https://platane.github.io/snk/))
 
 
