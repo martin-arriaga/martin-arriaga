@@ -1,5 +1,13 @@
 # Hi, I'm Martin 👋
 
+<div align="center">
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=martin-arriaga.martin-arriaga&style=flat-square&label=Visitors&color=00ff00&textColor=ff00ff&logo=https://img.icons8.com/fluency/48/000000/eye.png)
+
+</div>
+
+
+
 💻 Software Engineer | 🚀 Building IoT + AI projects  
 
 ## Languages | Frameworks | Tools 
