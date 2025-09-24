@@ -14,7 +14,9 @@
   martinarriagaalejos@gmail.com
 </details>
 
-![GitHub Snake](https://raw.githubusercontent.com/martin-arriaga/martin-arriaga/output/github-contribution-grid-snake.svg)
-![GitHub Snake]([https://raw.githubusercontent.com/martin-arriaga/martin-arriaga/output/github-contribution-grid-snake.svg](https://platane.github.io/snk/))
+<div align = "center">
+  ![snake gif](https://github.com/martin-arriaga/martin-arriaga/blob/output/github-snake-dark.svg)
+</div>
+
 
 
