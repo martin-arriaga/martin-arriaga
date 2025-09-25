@@ -19,7 +19,7 @@
       <a href = "https://discordapp.com/users/1067636791173202000" target = "_blank"> 
         <img width="32" height="32" alt="discord" src="https://github.com/user-attachments/assets/e17eb4cf-fadd-45ae-b4e6-edd7bd147ec8" /></a>
         </td> 
-      <td><a href ="(mailto:martinarriagaalejos@gmail.com)"> <img width="30" height="40" alt="gmail" src="https://github.com/user-attachments/assets/0d520547-cb96-4c26-bc48-ea94b43c937d" />
+      <td><a href ="mailto:martinarriagaalejos@gmail.com"> <img width="30" height="40" alt="gmail" src="https://github.com/user-attachments/assets/0d520547-cb96-4c26-bc48-ea94b43c937d" alt="Email" />
  </a>
       </td>
   </tr> 
