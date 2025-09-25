@@ -89,8 +89,8 @@
    
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [Object Detection](https://github.com/yourusername/streetlight) | Real-time Object Detection from semi-scratch | Python, Pytorch, Pandas | Active |
-| [Task Manager API](https://github.com/yourusername/task-manager) | REST API for tasks | ASP.NET, EF Core | ◉ Active |
+| [Object Detection](https://github.com/yourusername/streetlight) | Real-time Object Detection from semi-scratch | Python, Pytorch, Pandas | ✍︎ Active |
+| [Task Manager API](https://github.com/yourusername/task-manager) | REST API for tasks | ASP.NET, EF Core | ✍︎ Active |
 | [Portfolio Site](https://yourwebsite.com) | Personal website | React, Node.js | ✍︎ In Progress |
     
   
@@ -110,14 +110,6 @@
   <img width="200" height="80" alt="the-university-of-texas-at-dallas-logo-ut-dallas-comets-men-s-basketball-logo书-3f5fb487d646094f7dc9c38d51925917" src="https://github.com/user-attachments/assets/eeee1e99-9783-466a-a04d-2513e89f492c" />
 
 <img width="100" height="100" alt="CollinCollege-logo" src="https://github.com/user-attachments/assets/67531385-e0b0-40cf-aedb-fba8e1cf3c3e" />
-
-
-
-
-
-
-
-
 
 </div>
 <br>
