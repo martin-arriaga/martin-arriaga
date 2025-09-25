@@ -107,12 +107,25 @@
   <p > Bachelors of Science in Computer Science University of Texas at Dallas <br>
     Associates of Science in Business Administration Collin College </p>
   </div>
+  <img width="200" height="80" alt="the-university-of-texas-at-dallas-logo-ut-dallas-comets-men-s-basketball-logo书-3f5fb487d646094f7dc9c38d51925917" src="https://github.com/user-attachments/assets/eeee1e99-9783-466a-a04d-2513e89f492c" />
+
+<img width="100" height="100" alt="CollinCollege-logo" src="https://github.com/user-attachments/assets/67531385-e0b0-40cf-aedb-fba8e1cf3c3e" />
+
+
+
+
+
+
+
+
 
 </div>
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a>   
 <a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Pixel perfect - Flaticon</a>  
