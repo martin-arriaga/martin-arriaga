@@ -1,7 +1,7 @@
 <div>
   <div align="right">
   
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=martin-arriaga.martin-arriaga&style=flat-square&label=Views&left_color=grey&right_color=lavender) 
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=martin-arriaga.martin-arriaga&style=flat-square&label=Views&left_color=grey&right_color=purple) 
 </div>
 
 <table align = "center" ;style="border:none" >
@@ -13,8 +13,16 @@
         <img width="30" height="40" alt="linkedin" src="https://github.com/user-attachments/assets/e025a982-d277-4d6a-b2f5-2a766c8831af" />
         </a></td>  
       <td> <a href= "https://www.instagram.com" target= "_blank"> <img width="30" height="40" alt="instagram" src="https://github.com/user-attachments/assets/62a17e71-dc27-4a58-af0d-cb62a88a47da" />
-</a></td>
-    </tr> 
+</a>
+      </td>
+      <td>
+      <a href = "1067636791173202000" target = "_blank"> 
+        <img width="32" height="32" alt="discord" src="https://github.com/user-attachments/assets/e17eb4cf-fadd-45ae-b4e6-edd7bd147ec8" /></a>
+        </td> 
+      <td><a (mailto:martinarriagaalejos@gmail.com)> <img width="30" height="40" alt="gmail" src="https://github.com/user-attachments/assets/0d520547-cb96-4c26-bc48-ea94b43c937d" />
+ </a>
+      </td>
+  </tr> 
 </table>
 
 </div>
@@ -73,16 +81,21 @@
   
   <div >
     
-    Box 1 
+   <h3 "> Active Projects  </h3>
+   
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| [Object Detection](https://github.com/yourusername/streetlight) | Real-time Object Detection from semi-scratch | Python, Pytorch, Pandas | Active |
+| [Task Manager API](https://github.com/yourusername/task-manager) | REST API for tasks | ASP.NET, EF Core | ◉ Active |
+| [Portfolio Site](https://yourwebsite.com) | Personal website | React, Node.js | ✍︎ In Progress |
     
   
-    
   </div>
 
   <!-- Box 2 -->
   
 <div ><h3> Lets Build Something </h3>
-  <p>  </p>
+ 
 </div>
 
   <!-- Box 3 -->
@@ -102,6 +115,7 @@
 
 
 <a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by Freepik - Flaticon</a>   
-<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Pixel perfect - Flaticon</a>
-
+<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Pixel perfect - Flaticon</a>  
+<a href="https://www.flaticon.com/free-icons/discord" title="discord icons">Discord icons created by Freepik - Flaticon</a>  
+<a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Freepik - Flaticon</a>
 
