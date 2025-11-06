@@ -89,7 +89,7 @@
    
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [Object Detection](https://github.com/yourusername/streetlight) | Real-time Object Detection from semi-scratch | Python, Pytorch, Pandas | ✍︎ Active |
+| [Object Detection](https://github.com/martin-arriaga/YOLOV3-Inspired-Object-Detection.git) | Real-time Object Detection from semi-scratch | Python, Pytorch, Pandas | ✍︎ Active|
 | [Task Manager API](https://github.com/yourusername/task-manager) | REST API for tasks | ASP.NET, EF Core | ✍︎ Active |
 | [Portfolio Site](https://yourwebsite.com) | Personal website | React, Node.js | ✍︎ In Progress |
     
